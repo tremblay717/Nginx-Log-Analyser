@@ -20,7 +20,7 @@ git clone git@github.com:tremblay717/Nginx-Log-Analyser.git
 
 2. (Optionnal) Make the script executable
 ```
-chmod +x ./log_analyser.sh
+sudo chmod +x ./log_analyser.sh
 ```
 3. Launch the script in bash terminal
 
